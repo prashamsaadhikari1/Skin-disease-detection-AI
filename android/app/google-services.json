@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "405455912559",
+    "project_id": "gradition-850aa",
+    "storage_bucket": "gradition-850aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405455912559:android:8d9f46da7e5af8a5c2579a",
+        "android_client_info": {
+          "package_name": "com.example.gradition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405455912559-gjrbohesmqm6e0p39fb5apa60k0umbee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS2UNWxoCaD3Hspb-t6KOHYEw5hg6jVTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405455912559-gjrbohesmqm6e0p39fb5apa60k0umbee.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "405455912559-4kamecpu0m523fhtr9qs3pver2og3c7j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.graduationProject"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405455912559:android:02348ef31838cf8bc2579a",
+        "android_client_info": {
+          "package_name": "com.example.graduation_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405455912559-gjrbohesmqm6e0p39fb5apa60k0umbee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS2UNWxoCaD3Hspb-t6KOHYEw5hg6jVTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405455912559-gjrbohesmqm6e0p39fb5apa60k0umbee.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "405455912559-4kamecpu0m523fhtr9qs3pver2og3c7j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.graduationProject"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405455912559:android:6490434618a54cdbc2579a",
+        "android_client_info": {
+          "package_name": "com.example.scan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405455912559-gjrbohesmqm6e0p39fb5apa60k0umbee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS2UNWxoCaD3Hspb-t6KOHYEw5hg6jVTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405455912559-gjrbohesmqm6e0p39fb5apa60k0umbee.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "405455912559-4kamecpu0m523fhtr9qs3pver2og3c7j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.graduationProject"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405455912559:android:dbdc15ca6ec259efc2579a",
+        "android_client_info": {
+          "package_name": "com.example.skinscantech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405455912559-gjrbohesmqm6e0p39fb5apa60k0umbee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS2UNWxoCaD3Hspb-t6KOHYEw5hg6jVTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405455912559-gjrbohesmqm6e0p39fb5apa60k0umbee.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "405455912559-4kamecpu0m523fhtr9qs3pver2og3c7j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.graduationProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
